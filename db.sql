@@ -6,3 +6,6 @@ desy
 mascherano
 lewus
 george
+joshua 
+james
+dominion
